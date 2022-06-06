@@ -1,5 +1,9 @@
-# My page
+# brudter
 
-## screenshots
+## Screenshot
+<img src="assets/images/desktop-ss.png" width="200">
+<img src="assets/images/mobile-ss.png" width="200">
 
-## links
+## Link
+https://github.com/brudter/brudter
+https://brudter.github.io/brudter/
