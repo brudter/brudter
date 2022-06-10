@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: white
+}
+
+body {
+    background-color: rgb(255, 192, 3);
+}
+
+img {
+    width: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+p {
+    margin-left: 110px;
+    margin-right: 110px;
+}

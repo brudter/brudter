@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: white
+}
+
+body {
+    background-color: rgb(29, 141, 239);
+}
+
+ul {
+    margin: 100px;
+}
+
+ul li {
+    margin: 100px;
+}
