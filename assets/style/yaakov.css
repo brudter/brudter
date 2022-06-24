@@ -19,7 +19,14 @@ img {
     border-radius: 5px;
 }
 
+article {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 p {
-    margin-left: 110px;
-    margin-right: 110px;
+    text-align: justify;
 }

@@ -12,10 +12,10 @@ body {
     background-color: rgb(29, 141, 239);
 }
 
-ul {
-    margin: 100px;
+article {
+ text-align: center;
 }
 
-ul li {
+p {
     margin: 100px;
 }

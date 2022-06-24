@@ -5,7 +5,8 @@
     text-decoration: none;
     font-family: Helvetica, sans-serif;
     text-align: center;
-    color: white
+    color: white;
+    /* border: 1px dashed red; */ 
 }
 
 body {
@@ -19,33 +20,37 @@ a {
 .yaakov:hover {
     color: rgb(255, 192, 3);
     size-adjust: 20px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 .portfolio:hover {
     color: rgb(172, 25, 25);
     size-adjust: 20px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 .contact:hover {
     color: rgb(29, 141, 239);
     size-adjust: 20px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 p {
     margin: 100px;
 }
 
-ul {
-    margin: 100px;
+
+/* @media screen and (max-width: 500px) {
+
+article {
+    justify-content: center;
+    text-align: center;
 }
 
 ul li {
-    margin: 100px;
+    justify-content: center;
+    text-align: center;
 }
 
-footer {
- /* lets fuck */
-}
+
+} */
