@@ -20,19 +20,19 @@ a {
 .yaakov:hover {
     color: rgb(255, 192, 3);
     size-adjust: 20px;
-    transition: 1.5s;
+    transition: .5s;
 }
 
 .portfolio:hover {
     color: rgb(172, 25, 25);
     size-adjust: 20px;
-    transition: 1.5s;
+    transition: .5s;
 }
 
 .contact:hover {
     color: rgb(29, 141, 239);
     size-adjust: 20px;
-    transition: 1.5s;
+    transition: .5s;
 }
 
 p {
